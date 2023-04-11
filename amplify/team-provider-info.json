@@ -10,6 +10,11 @@
       "StackName": "amplify-nextamplified-dev-233521",
       "StackId": "arn:aws:cloudformation:ap-southeast-1:585466981083:stack/amplify-nextamplified-dev-233521/0744af20-d499-11ed-9bf1-061652ab0c9c",
       "AmplifyAppId": "dr2cvv2x1c08s"
+    },
+    "categories": {
+      "api": {
+        "nextamplified": {}
+      }
     }
   }
 }
